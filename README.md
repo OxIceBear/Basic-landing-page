@@ -42,9 +42,9 @@ Set up the dark mode preference:
 
 In the script.js file, you can customize the behavior of the dark mode toggle button.
 By default, the user's preference for dark mode is stored in the browser's localStorage and applied upon page load. You can modify this behavior or add additional functionality as needed.
-Host the landing page:
 
 6. Host the landing page:
+
 Upload the modified code to your hosting provider or server.
 Ensure that all the necessary files (HTML, CSS, images, and JavaScript) are included.
 
