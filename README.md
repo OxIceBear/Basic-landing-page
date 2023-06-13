@@ -48,5 +48,5 @@ Ensure that all the necessary files (HTML, CSS, images, and JavaScript) are incl
 ## Contributing
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please submit a pull request. For major changes, please open an issue to discuss the proposed changes.
 
-License
+## License
 This project is licensed under the MIT License.
