@@ -30,13 +30,11 @@ To use this landing page template, follow the steps below:
 
 Replace the logo image in the header section with your own logo.
 Modify the text, images, and links in the hero and features sections to match your product or service.
-Customize the styles:
 
 4. Customize the styles:
 
 Modify the styles.css file to change the colors, fonts, and other styles according to your preference.
 Update the images in the img folder with your own images.
-Set up the dark mode preference:
 
 5. Set up the dark mode preference:
 
