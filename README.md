@@ -9,10 +9,12 @@ This repository contains the code for a modern landing page template. It is desi
 - Features section to highlight key aspects of the product or service.
 - Navigation bar with a dark mode toggle button.
 - Footer section with company information.
+## Pictures
 
-## Demo
+![image](https://github.com/Jocko010/Basic-landing-page/assets/69987100/fd396eb9-027c-430f-a170-f3a8887b2b94)
+![image](https://github.com/Jocko010/Basic-landing-page/assets/69987100/dc0c14c7-a6ab-4d2b-8239-f47973586667)
+![image](https://github.com/Jocko010/Basic-landing-page/assets/69987100/4edbf8b1-511b-43ba-b6b8-362d3577d338)
 
-You can see a live demo of the landing page [here](https://your-landing-page-demo.com).
 
 ## Getting Started
 
