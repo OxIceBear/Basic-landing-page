@@ -18,9 +18,11 @@ If it says thats its Dangerus, ignore it, I dont know why!
 - Footer section with company information.
 ## Pictures
 
-![image](https://github.com/Jocko010/Basic-landing-page/assets/69987100/1177321a-b476-4f1a-8a4f-52b320f502d9)
-![image](https://github.com/Jocko010/Basic-landing-page/assets/69987100/756fc4c4-4a75-4ff8-9737-6dc5bb82ffff)
-![image](https://github.com/Jocko010/Basic-landing-page/assets/69987100/f2dfb001-cfe1-45ce-b198-5c1de42becf3)
+
+![image](https://github.com/OxIceBear/Basic-landing-page/assets/69987100/6fa4243a-4c8a-45e7-ae2d-dde2c4064bfe)
+![image](https://github.com/OxIceBear/Basic-landing-page/assets/69987100/062f7a38-82c9-47f0-8c7a-050a77fd431a)
+![image](https://github.com/OxIceBear/Basic-landing-page/assets/69987100/af1172e1-ccc8-4740-a17b-a4530c9d0e15)
+
 
 
 
