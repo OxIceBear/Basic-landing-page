@@ -4,7 +4,7 @@ This repository contains the code for a modern landing page template. It is desi
 
 ## Demo
 
-You can see Demo [here] `(https://basic-landing-page.000webhostapp.com/)`
+You can see Demo [here](https://basic-landing-page.000webhostapp.com/).
 If it says thats its Dangerus, ignore it, I dont know why!
 
 
