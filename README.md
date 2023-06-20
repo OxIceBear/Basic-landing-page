@@ -33,7 +33,7 @@ To use this landing page template, follow the steps below:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Jocko010/Basic-landing-page.git
+   git clone https://github.com/oxIceBear/Basic-landing-page.git
    ```
 2. Customize the content:
 
